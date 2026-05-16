@@ -22,7 +22,7 @@ export default function HomeScreen(){
                 <Button label="Criar meu cartão" onPress={() => router.push('/cadastro')} />
 
                 <FooterContainer>
-                    <FooterText label="Aplicações Moveis - Instrumento Avaliativo 2" />
+                    <FooterText label="Aplicações Moveis - IA2" />
                 </FooterContainer>
             </Container>
         </SafeAreaView>
